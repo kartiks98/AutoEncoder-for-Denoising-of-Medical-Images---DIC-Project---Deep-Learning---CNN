@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.spyproject/
+MyData.db
+Extra Files/
+.vscode/
+.ipynb_checkpoints/
+correct_PANCREAS_dataset/
+Extras/
